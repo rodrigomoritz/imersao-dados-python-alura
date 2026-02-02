@@ -1,19 +1,19 @@
-# imersao-dados-python-alura
+# Imersão de dados com Python Alura 2026
 
-#criar ambiente virtual
-#python -m venv venv
+# criar ambiente virtual
+```python -m venv venv```
 
-#ativar ambiente virtual
-#venv\Scripts\activate
+# Ativar ambiente virtual
+```venv\Scripts\activate```
 
-#desativar ambiente virtual
-#deactivate
+# Desativar ambiente virtual
+```deactivate```
 
-#Criar arquivo requirements.txt
-#pip freeze > requirements.txt
+# Criar arquivo requirements.txt
+```pip freeze > requirements.txt```
 
-#Instalar pacotes do arquivo requirements.txt
-#pip install -r requirements.
+# Instalar pacotes do arquivo requirements.txt
+```pip install -r requirements ```
 
-#subir ambiente local
-#streamlit run app.py
+# Subir ambiente local
+```streamlit run app.py```
